@@ -129,6 +129,8 @@ if(isset($_POST['logout'])){
 
 <footer>
   <p>Developed by: Ar_Vamshi & Amulya</p>
+  <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> Made in ❤️ Amulya</g-emoji>
+
 </footer>
 </body>
 </html>
